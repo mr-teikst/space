@@ -1,0 +1,4 @@
+Creator: Kenney
+Source: https://kenney.nl/assets/planets
+License: CC0 (see original license file)
+Downloaded 2026-11-15 for Chicken Shooter.

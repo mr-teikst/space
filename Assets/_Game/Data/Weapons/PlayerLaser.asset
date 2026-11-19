@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7459eee3ef3848e2ad7bcc72ada9887, type: 3}
+  m_Name: PlayerLaser
+  m_EditorClassIdentifier: ChickenShooter.Runtime::ChickenShooter.WeaponDataSO
+  displayName: Photon Laser
+  icon: {fileID: 0}
+  projectilePrefab: {fileID: 2743505640923390133, guid: 780951d48242ef9988abbacfba0a7888, type: 3}
+  damage: 1
+  projectileSpeed: 14
+  fireInterval: 0.17
+  spreadAngle: 15

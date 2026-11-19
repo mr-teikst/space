@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2551b3e54844d518a956e16d9fbb738, type: 3}
+  m_Name: Level3
+  m_EditorClassIdentifier: ChickenShooter.Runtime::ChickenShooter.LevelDataSO
+  levelIndex: 3
+  sceneName: Level3
+  displayName: Deep Galaxy
+  music: {fileID: 8300000, guid: b015dca6ebc774b2b8655d82a2b5b6e4, type: 3}
+  backgroundColor: {r: 0.035, g: 0.018, b: 0.09, a: 1}
+  rounds:
+  - {fileID: 11400000, guid: 2f839ee197a5f7b0187a21751c5a700c, type: 2}
+  - {fileID: 11400000, guid: 618a8e424ff70d7b8814357f6cfdc4d9, type: 2}
+  - {fileID: 11400000, guid: 508f5a5dd93c1e810b586cacf8b70bb5, type: 2}
+  - {fileID: 11400000, guid: 5d53e61972bd291f3863431aeabf7b8e, type: 2}
+  - {fileID: 11400000, guid: e4a84d5e7582ea310bf91dcb2a1abaf4, type: 2}
+  - {fileID: 11400000, guid: 4f364c7a819a49d0291912698d470fc0, type: 2}
+  - {fileID: 11400000, guid: 5a91fbb411ab710a290cdf9bf1048bf5, type: 2}
+  - {fileID: 11400000, guid: ba50037fad49cc15682ffb10ccd66b1a, type: 2}
+  - {fileID: 11400000, guid: db8cbc76a103532c2860914ee9c86601, type: 2}
+  - {fileID: 11400000, guid: 82f2812e39c96ae7bb18e00ea13822a3, type: 2}
+  nextLevel: {fileID: 0}

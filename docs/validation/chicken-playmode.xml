@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" testcasecount="4" result="Passed" total="4" passed="4" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.5.0.0" clr-version="4.0.30319.42000" start-time="2026-11-15 15:48:50Z" end-time="2026-11-15 15:49:21Z" duration="30.6396267">
+  <test-suite type="TestSuite" id="1012" name="Chicken Shooter" fullname="Chicken Shooter" runstate="Runnable" testcasecount="4" result="Passed" start-time="2026-11-15 15:48:50Z" end-time="2026-11-15 15:49:21Z" duration="30.639627" total="4" passed="4" failed="0" inconclusive="0" skipped="0" asserts="0">
+    <properties>
+      <property name="platform" value="PlayMode" />
+    </properties>
+    <test-suite type="Assembly" id="1019" name="ChickenShooter.PlayModeTests.dll" fullname="/tmp/chicken-shooter-validation/Library/ScriptAssemblies/ChickenShooter.PlayModeTests.dll" runstate="Runnable" testcasecount="4" result="Passed" start-time="2026-11-15 15:48:50Z" end-time="2026-11-15 15:49:21Z" duration="30.629036" total="4" passed="4" failed="0" inconclusive="0" skipped="0" asserts="0">
+      <properties>
+        <property name="_PID" value="192550" />
+        <property name="_APPDOMAIN" value="Unity Child Domain" />
+        <property name="platform" value="PlayMode" />
+        <property name="EditorOnly" value="False" />
+      </properties>
+      <test-suite type="TestSuite" id="1020" name="ChickenShooterTests" fullname="ChickenShooterTests" runstate="Runnable" testcasecount="4" result="Passed" start-time="2026-11-15 15:48:50Z" end-time="2026-11-15 15:49:21Z" duration="30.628100" total="4" passed="4" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <properties />
+        <test-suite type="TestFixture" id="1013" name="CampaignIntegrationTests" fullname="ChickenShooterTests.CampaignIntegrationTests" classname="ChickenShooterTests.CampaignIntegrationTests" runstate="Runnable" testcasecount="3" result="Passed" start-time="2026-11-15 15:48:50Z" end-time="2026-11-15 15:48:57Z" duration="6.867546" total="3" passed="3" failed="0" inconclusive="0" skipped="0" asserts="0">
+          <properties />
+          <test-case id="1016" name="AllTwentyTwoRoundsAdvanceOnceAndVictoryClearsSave" fullname="ChickenShooterTests.CampaignIntegrationTests.AllTwentyTwoRoundsAdvanceOnceAndVictoryClearsSave" methodname="AllTwentyTwoRoundsAdvanceOnceAndVictoryClearsSave" classname="ChickenShooterTests.CampaignIntegrationTests" runstate="Runnable" seed="1943919653" result="Passed" start-time="2026-11-15 15:48:50Z" end-time="2026-11-15 15:48:55Z" duration="4.935195" asserts="0">
+            <properties>
+              <property name="_JOINTYPE" value="UnityCombinatorial" />
+              <property name="retryIteration" value="0" />
+              <property name="repeatIteration" value="0" />
+            </properties>
+          </test-case>
+          <test-case id="1015" name="LaterStageCheckpointRestoresStatsAndDeathRestartsThatStage" fullname="ChickenShooterTests.CampaignIntegrationTests.LaterStageCheckpointRestoresStatsAndDeathRestartsThatStage" methodname="LaterStageCheckpointRestoresStatsAndDeathRestartsThatStage" classname="ChickenShooterTests.CampaignIntegrationTests" runstate="Runnable" seed="47112542" result="Passed" start-time="2026-11-15 15:48:55Z" end-time="2026-11-15 15:48:56Z" duration="0.947137" asserts="0">
+            <properties>
+              <property name="_JOINTYPE" value="UnityCombinatorial" />
+              <property name="retryIteration" value="0" />
+              <property name="repeatIteration" value="0" />
+            </properties>
+          </test-case>
+          <test-case id="1014" name="MenuPauseDeathRetryAndContinueUseTheCurrentStageCheckpoint" fullname="ChickenShooterTests.CampaignIntegrationTests.MenuPauseDeathRetryAndContinueUseTheCurrentStageCheckpoint" methodname="MenuPauseDeathRetryAndContinueUseTheCurrentStageCheckpoint" classname="ChickenShooterTests.CampaignIntegrationTests" runstate="Runnable" seed="1541103009" result="Passed" start-time="2026-11-15 15:48:56Z" end-time="2026-11-15 15:48:57Z" duration="0.964477" asserts="0">
+            <properties>
+              <property name="_JOINTYPE" value="UnityCombinatorial" />
+              <property name="retryIteration" value="0" />
+              <property name="repeatIteration" value="0" />
+            </properties>
+          </test-case>
+        </test-suite>
+        <test-suite type="TestFixture" id="1017" name="VisualSmokeTests" fullname="ChickenShooterTests.VisualSmokeTests" classname="ChickenShooterTests.VisualSmokeTests" runstate="Runnable" testcasecount="1" result="Passed" start-time="2026-11-15 15:48:57Z" end-time="2026-11-15 15:49:21Z" duration="23.758187" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+          <properties />
+          <test-case id="1018" name="MenuAndGameplayRenderWithoutMissingShaders" fullname="ChickenShooterTests.VisualSmokeTests.MenuAndGameplayRenderWithoutMissingShaders" methodname="MenuAndGameplayRenderWithoutMissingShaders" classname="ChickenShooterTests.VisualSmokeTests" runstate="Runnable" seed="1435602369" result="Passed" start-time="2026-11-15 15:48:57Z" end-time="2026-11-15 15:49:21Z" duration="23.756614" asserts="0">
+            <properties>
+              <property name="_JOINTYPE" value="UnityCombinatorial" />
+              <property name="retryIteration" value="0" />
+              <property name="repeatIteration" value="0" />
+            </properties>
+            <output><![CDATA[Saving results to: /home/erfant/.config/unity3d/Space Coursework/Chicken Shooter/TestResults.xml
+Saving results to: /home/erfant/.config/unity3d/Space Coursework/Chicken Shooter/TestResults.xml
+]]></output>
+          </test-case>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

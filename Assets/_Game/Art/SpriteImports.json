@@ -1,0 +1,322 @@
+{
+  "sheets": [
+    {
+      "path": "Assets/_Game/Art/Generated/chicken-basic.png",
+      "frames": [
+        {
+          "name": "chicken_basic_wings_up",
+          "rect": {
+            "x": 48,
+            "y": 693,
+            "width": 512,
+            "height": 483
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.024844720496894408
+          }
+        },
+        {
+          "name": "chicken_basic_wings_out_a",
+          "rect": {
+            "x": 619,
+            "y": 693,
+            "width": 607,
+            "height": 473
+          },
+          "pivot": {
+            "x": 0.5024711696869851,
+            "y": 0.02536997885835095
+          }
+        },
+        {
+          "name": "chicken_basic_wings_down",
+          "rect": {
+            "x": 65,
+            "y": 85,
+            "width": 466,
+            "height": 472
+          },
+          "pivot": {
+            "x": 0.5128755364806867,
+            "y": 0.025423728813559324
+          }
+        },
+        {
+          "name": "chicken_basic_wings_out_b",
+          "rect": {
+            "x": 613,
+            "y": 84,
+            "width": 619,
+            "height": 474
+          },
+          "pivot": {
+            "x": 0.5024232633279483,
+            "y": 0.02531645569620253
+          }
+        }
+      ]
+    },
+    {
+      "path": "Assets/_Game/Art/Generated/chicken-armored.png",
+      "frames": [
+        {
+          "name": "chicken_armored_wings_up",
+          "rect": {
+            "x": 52,
+            "y": 705,
+            "width": 506,
+            "height": 468
+          },
+          "pivot": {
+            "x": 0.4980237154150198,
+            "y": 0.02564102564102564
+          }
+        },
+        {
+          "name": "chicken_armored_wings_out_a",
+          "rect": {
+            "x": 610,
+            "y": 704,
+            "width": 616,
+            "height": 462
+          },
+          "pivot": {
+            "x": 0.5097402597402597,
+            "y": 0.025974025974025976
+          }
+        },
+        {
+          "name": "chicken_armored_wings_down",
+          "rect": {
+            "x": 75,
+            "y": 95,
+            "width": 453,
+            "height": 463
+          },
+          "pivot": {
+            "x": 0.5055187637969095,
+            "y": 0.02591792656587473
+          }
+        },
+        {
+          "name": "chicken_armored_wings_out_b",
+          "rect": {
+            "x": 610,
+            "y": 95,
+            "width": 620,
+            "height": 462
+          },
+          "pivot": {
+            "x": 0.5064516129032258,
+            "y": 0.025974025974025976
+          }
+        }
+      ]
+    },
+    {
+      "path": "Assets/_Game/Art/Generated/chicken-cosmic.png",
+      "frames": [
+        {
+          "name": "chicken_cosmic_wings_up",
+          "rect": {
+            "x": 40,
+            "y": 568,
+            "width": 421,
+            "height": 364
+          },
+          "pivot": {
+            "x": 0.498812351543943,
+            "y": 0.027472527472527472
+          }
+        },
+        {
+          "name": "chicken_cosmic_wings_out_a",
+          "rect": {
+            "x": 508,
+            "y": 568,
+            "width": 498,
+            "height": 357
+          },
+          "pivot": {
+            "x": 0.4979919678714859,
+            "y": 0.028011204481792718
+          }
+        },
+        {
+          "name": "chicken_cosmic_wings_down",
+          "rect": {
+            "x": 53,
+            "y": 69,
+            "width": 383,
+            "height": 357
+          },
+          "pivot": {
+            "x": 0.5143603133159269,
+            "y": 0.028011204481792718
+          }
+        },
+        {
+          "name": "chicken_cosmic_wings_out_b",
+          "rect": {
+            "x": 503,
+            "y": 68,
+            "width": 509,
+            "height": 359
+          },
+          "pivot": {
+            "x": 0.49705304518664045,
+            "y": 0.027855153203342618
+          }
+        }
+      ]
+    },
+    {
+      "path": "Assets/_Game/Art/Generated/boss-giant-chicken.png",
+      "frames": [
+        {
+          "name": "boss_giant_chicken",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1024,
+            "height": 1024
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "path": "Assets/_Game/Art/Generated/boss-mecha-chicken.png",
+      "frames": [
+        {
+          "name": "boss_mecha_chicken",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1024,
+            "height": 1024
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "path": "Assets/_Game/Art/Generated/boss-galactic-emperor.png",
+      "frames": [
+        {
+          "name": "boss_galactic_emperor",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1024,
+            "height": 1024
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "path": "Assets/_Game/Art/Generated/pickup-gift.png",
+      "frames": [
+        {
+          "name": "pickup_gift",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1024,
+            "height": 1024
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "path": "Assets/_Game/Art/Generated/feather.png",
+      "frames": [
+        {
+          "name": "feather",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1024,
+            "height": 1024
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "path": "Assets/_Game/Art/Generated/egg-breaking.png",
+      "frames": [
+        {
+          "name": "egg_intact",
+          "rect": {
+            "x": 0,
+            "y": 512,
+            "width": 512,
+            "height": 512
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        },
+        {
+          "name": "egg_cracked",
+          "rect": {
+            "x": 512,
+            "y": 512,
+            "width": 512,
+            "height": 512
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        },
+        {
+          "name": "egg_splitting",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 512,
+            "height": 512
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        },
+        {
+          "name": "egg_fragments",
+          "rect": {
+            "x": 512,
+            "y": 0,
+            "width": 512,
+            "height": 512
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        }
+      ]
+    }
+  ]
+}

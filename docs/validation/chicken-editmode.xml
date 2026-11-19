@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" testcasecount="5" result="Passed" total="5" passed="5" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.5.0.0" clr-version="4.0.30319.42000" start-time="2026-11-15 15:48:08Z" end-time="2026-11-15 15:48:08Z" duration="0.0710563">
+  <test-suite type="TestSuite" id="1000" name="Chicken Shooter" fullname="Chicken Shooter" runstate="Runnable" testcasecount="5" result="Passed" start-time="2026-11-15 15:48:08Z" end-time="2026-11-15 15:48:08Z" duration="0.071056" total="5" passed="5" failed="0" inconclusive="0" skipped="0" asserts="0">
+    <properties>
+      <property name="platform" value="EditMode" />
+    </properties>
+    <test-suite type="Assembly" id="1007" name="ChickenShooter.Tests.dll" fullname="/tmp/chicken-shooter-validation/Library/ScriptAssemblies/ChickenShooter.Tests.dll" runstate="Runnable" testcasecount="5" result="Passed" start-time="2026-11-15 15:48:08Z" end-time="2026-11-15 15:48:08Z" duration="0.059912" total="5" passed="5" failed="0" inconclusive="0" skipped="0" asserts="0">
+      <properties>
+        <property name="_PID" value="191483" />
+        <property name="_APPDOMAIN" value="Unity Child Domain" />
+        <property name="platform" value="EditMode" />
+        <property name="EditorOnly" value="True" />
+      </properties>
+      <test-suite type="TestSuite" id="1008" name="ChickenShooterTests" fullname="ChickenShooterTests" runstate="Runnable" testcasecount="5" result="Passed" start-time="2026-11-15 15:48:08Z" end-time="2026-11-15 15:48:08Z" duration="0.059248" total="5" passed="5" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <properties />
+        <test-suite type="TestFixture" id="1001" name="GameplayTests" fullname="ChickenShooterTests.GameplayTests" classname="ChickenShooterTests.GameplayTests" runstate="Runnable" testcasecount="5" result="Passed" start-time="2026-11-15 15:48:08Z" end-time="2026-11-15 15:48:08Z" duration="0.057578" total="5" passed="5" failed="0" inconclusive="0" skipped="0" asserts="0">
+          <properties />
+          <test-case id="1004" name="DamageableResolvesOnlyOnceAndResetsOnReuse" fullname="ChickenShooterTests.GameplayTests.DamageableResolvesOnlyOnceAndResetsOnReuse" methodname="DamageableResolvesOnlyOnceAndResetsOnReuse" classname="ChickenShooterTests.GameplayTests" runstate="Runnable" seed="492000473" result="Passed" start-time="2026-11-15 15:48:08Z" end-time="2026-11-15 15:48:08Z" duration="0.023742" asserts="0">
+            <properties>
+              <property name="retryIteration" value="0" />
+              <property name="repeatIteration" value="0" />
+            </properties>
+          </test-case>
+          <test-case id="1003" name="InvalidOrIncompleteCheckpointCannotBeContinued" fullname="ChickenShooterTests.GameplayTests.InvalidOrIncompleteCheckpointCannotBeContinued" methodname="InvalidOrIncompleteCheckpointCannotBeContinued" classname="ChickenShooterTests.GameplayTests" runstate="Runnable" seed="42359513" result="Passed" start-time="2026-11-15 15:48:08Z" end-time="2026-11-15 15:48:08Z" duration="0.002258" asserts="0">
+            <properties>
+              <property name="retryIteration" value="0" />
+              <property name="repeatIteration" value="0" />
+            </properties>
+          </test-case>
+          <test-case id="1006" name="MissileClearsEnemiesAndEggsButOnlyDamagesBossByOneFifth" fullname="ChickenShooterTests.GameplayTests.MissileClearsEnemiesAndEggsButOnlyDamagesBossByOneFifth" methodname="MissileClearsEnemiesAndEggsButOnlyDamagesBossByOneFifth" classname="ChickenShooterTests.GameplayTests" runstate="Runnable" seed="785348019" result="Passed" start-time="2026-11-15 15:48:08Z" end-time="2026-11-15 15:48:08Z" duration="0.002289" asserts="0">
+            <properties>
+              <property name="retryIteration" value="0" />
+              <property name="repeatIteration" value="0" />
+            </properties>
+          </test-case>
+          <test-case id="1005" name="ReusedProjectileCanHitAgainButEachActivationHitsOnlyOnce" fullname="ChickenShooterTests.GameplayTests.ReusedProjectileCanHitAgainButEachActivationHitsOnlyOnce" methodname="ReusedProjectileCanHitAgainButEachActivationHitsOnlyOnce" classname="ChickenShooterTests.GameplayTests" runstate="Runnable" seed="1772287424" result="Passed" start-time="2026-11-15 15:48:08Z" end-time="2026-11-15 15:48:08Z" duration="0.002499" asserts="0">
+            <properties>
+              <property name="retryIteration" value="0" />
+              <property name="repeatIteration" value="0" />
+            </properties>
+          </test-case>
+          <test-case id="1002" name="SaveRoundTripPreservesEveryFieldAndReplacesPreviousCheckpoint" fullname="ChickenShooterTests.GameplayTests.SaveRoundTripPreservesEveryFieldAndReplacesPreviousCheckpoint" methodname="SaveRoundTripPreservesEveryFieldAndReplacesPreviousCheckpoint" classname="ChickenShooterTests.GameplayTests" runstate="Runnable" seed="816115099" result="Passed" start-time="2026-11-15 15:48:08Z" end-time="2026-11-15 15:48:08Z" duration="0.004649" asserts="0">
+            <properties>
+              <property name="retryIteration" value="0" />
+              <property name="repeatIteration" value="0" />
+            </properties>
+            <output><![CDATA[Saving results to: /home/erfant/.config/unity3d/Space Coursework/Chicken Shooter/TestResults.xml
+Saving results to: /home/erfant/.config/unity3d/Space Coursework/Chicken Shooter/TestResults.xml
+]]></output>
+          </test-case>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

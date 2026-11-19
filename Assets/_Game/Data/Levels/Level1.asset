@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2551b3e54844d518a956e16d9fbb738, type: 3}
+  m_Name: Level1
+  m_EditorClassIdentifier: ChickenShooter.Runtime::ChickenShooter.LevelDataSO
+  levelIndex: 1
+  sceneName: Level1
+  displayName: Earth Orbit
+  music: {fileID: 8300000, guid: 100973135d18b7ffcb29f8595c1bf317, type: 3}
+  backgroundColor: {r: 0.02, g: 0.045, b: 0.1, a: 1}
+  rounds:
+  - {fileID: 11400000, guid: cacf080f887f914ba864aaa9d342fa38, type: 2}
+  - {fileID: 11400000, guid: 6bb2ecf07e6f70456b5b38a1b8f6c419, type: 2}
+  - {fileID: 11400000, guid: aa49865814a29a8818ecec3ec6c2ae6d, type: 2}
+  - {fileID: 11400000, guid: 57c0334da3c031177a169d9aabe4b511, type: 2}
+  - {fileID: 11400000, guid: ed6ce54770d8e93b4b173f2089f755c6, type: 2}
+  nextLevel: {fileID: 11400000, guid: d506ae4cc14db6fc3be571beece94f77, type: 2}
